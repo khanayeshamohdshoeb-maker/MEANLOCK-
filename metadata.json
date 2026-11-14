@@ -1,0 +1,6 @@
+{
+  "name": "MEANLOCK",
+  "description": "Critical meaning preservation analyzer for AI-transformed messages. Detects whether obligations, deadlines, negations, quantities, and consequences survive translation, summarization, simplification, or rewriting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
